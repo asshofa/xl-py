@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from xlpy import *
 
-xl = XL('MSISDN/NO.TELP')
+xl = XL('6281904834899')
 xl.reqOTP()
 
 #status = xl.reqOTP()
